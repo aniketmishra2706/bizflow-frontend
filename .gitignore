@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Angular build files
+dist/
+.angular/
+
+# Environment secrets
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
